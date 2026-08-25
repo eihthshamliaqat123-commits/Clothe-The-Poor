@@ -450,7 +450,7 @@ The project was developed as a full-stack software solution for managing clothin
 
 ## 👨‍💻 Developer
 
-**Rehan Liaqat**
+**Eihthsham Liaqat**
 
 **Skills demonstrated in this project:**
 
